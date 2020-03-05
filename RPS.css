@@ -1,0 +1,17 @@
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p {
+    padding: 2em;
+    margin-top: 15%;
+    margin-bottom: 1em;
+    border: solid .1rem black;
+    border-radius: 1px;
+    text-align: center;
+}
+#paper {
+    margin-left: 4em;
+    margin-right: 4em;
+}
